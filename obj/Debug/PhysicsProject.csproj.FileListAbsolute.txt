@@ -1,0 +1,12 @@
+C:\Users\Zen\source\repos\PhysicsProject\bin\Debug\PhysicsProject.exe.config
+C:\Users\Zen\source\repos\PhysicsProject\bin\Debug\PhysicsProject.exe
+C:\Users\Zen\source\repos\PhysicsProject\bin\Debug\PhysicsProject.pdb
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.csprojAssemblyReference.cache
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.Form1.resources
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.Properties.Resources.resources
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.csproj.GenerateResource.cache
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.csproj.CoreCompileInputs.cache
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.exe
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.pdb
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.Form2.resources
+C:\Users\Zen\source\repos\PhysicsProject\obj\Debug\PhysicsProject.Form3.resources
